@@ -1005,7 +1005,7 @@ body.dark-theme {
   .newsletter__form {
     padding: 8px 8px 8px 24px;
   }
-  .newsletter_button {
+  .newsletter__button {
     font-size: normal;
   }
   .newsletter__spinach {
@@ -1056,7 +1056,7 @@ body.dark-theme {
   }
 }
 
-@media screen and(min-width: 1064px) {
+@media screen and (min-width: 1064px) {
   .container {
     margin-inline: auto;
   }
